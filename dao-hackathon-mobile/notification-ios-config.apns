@@ -1,0 +1,27 @@
+{
+    "aps":{
+        "alert":{
+            "title": "Mesme",
+            "body":"Mesme test notification",
+        },
+        "sound":"default",
+        "badge":0
+    },
+    "type": 0,
+    "data": {
+                "urlJson": [
+                    "2HDgj46ksbvqifyAoLxEavX1PEzKouHtJF812QXStFtY"
+                ],
+                "statusSeen": true,
+                "addressSent": "5pECorirGkMf8VaxYhrtoXH1ryrgXBoSKK8pAfmPmUKh",
+                "addressReceived": "BguKX759oZw8HFW42dLADVKW39ygEo8LWNRcXHUiruBB",
+                "timeSeen": {
+                    "status": true,
+                    "time": "2022-08-17T08:08:54.662Z"
+                },
+                "typeNetwork": "solana",
+                "idNotification": "8e2354b8-cbb1-46db-994d-1f4ad9b780e0",
+                "createdAt": "2022-08-17T07:52:09.934Z"
+            },
+    "gcm.message_id":"20021"
+}
