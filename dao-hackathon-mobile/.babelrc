@@ -1,0 +1,39 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@src": "./src/",
+          "@screen": "./src/screens/",
+          "@constant": "./src/constants/Constant",
+          "@action": "./src/redux/actions",
+          "@components-old": "./src/components",
+          "@theme-old": "./src/constants/Theme",
+          "@R": "./src/assets/R",
+          "@api": "./src/services/index",
+          "@navigation": "./src/navigation/index",
+          "@routers": "./src/navigation/routers",
+          "@assets": "./src/assets",
+          "@common": "./src/common",
+          "@hooks": "./src/common/hooks",
+          "@validate": "./src/common/yup-validate",
+          "@typed-redux-saga": "./src/common/typed-redux-saga",
+          "@animated": "./src/common/animated",
+          "@config": "./src/config",
+          "@components": "./src/library/components",
+          "@networking": "./src/library/networking",
+          "@utils": "./src/library/utils",
+          "@storage": "./src/library/utils/storage",
+          "@model": "./src/model",
+          "@store": "./src/store",
+          "@redux-slice": "./src/redux/action-slice",
+          "@redux-action-type": "./src/redux/action-type",
+          "@saga": "./src/redux/saga",
+          "@theme": "./src/themes",
+          "@transition": "./src/transition"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Navigation": {"route": "Main"},
+  "Wallet": {
+    "data": ["4rvLJNdYTXoUkadcXX4qtD41qb6cTEb4B5NDFqMXESue"],
+    "error": false,
+    "isLoading": false,
+    "select": 0
+  }
+}

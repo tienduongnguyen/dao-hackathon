@@ -1,0 +1,992 @@
+[2023-02-11 00:30:59] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:30:59 GMT
+[2023-02-11 00:30:59] [[32minfo[39m] Server running on port 3001
+[2023-02-11 00:31:23] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:31:23 GMT
+[2023-02-11 00:31:23] [[32minfo[39m] Server running on port 3001
+[2023-02-11 00:32:58] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:32:58 GMT
+[2023-02-11 00:32:58] [[32minfo[39m] Server running on port 3001
+[2023-02-11 00:38:18] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:38:18 GMT
+[2023-02-11 00:38:18] [[32minfo[39m] Server running on port 3001
+[2023-02-11 00:44:30] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:44:30 GMT
+[2023-02-11 00:44:30] [[32minfo[39m] Server running on port 3001
+[2023-02-11 00:47:31] [[32minfo[39m] Server start at Fri, 10 Feb 2023 17:47:31 GMT
+[2023-02-11 00:47:31] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:17:49] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:17:49 GMT
+[2023-02-13 00:17:49] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:20:06] [[32minfo[39m] [POST] /token-creator/erc20 127.0.0.1 undefined {"name":"MyToken","symbol":"mtk","initial_supply":0,"is_burnable":false,"is_mintable":false,"is_pausable":false}
+[2023-02-13 00:21:13] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:21:13 GMT
+[2023-02-13 00:21:13] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:21:17] [[32minfo[39m] [POST] /token-creator/erc20 127.0.0.1 undefined {"name":"MyToken","symbol":"mtk","initial_supply":0,"is_burnable":false,"is_mintable":false,"is_pausable":false}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs 127.0.0.1 undefined {}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-02-13 00:23:46] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-02-13 00:23:48] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-02-13 00:23:48] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-02-13 00:30:57] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:30:57 GMT
+[2023-02-13 00:30:57] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:32:22] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:32:22 GMT
+[2023-02-13 00:32:22] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:33:02] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:33:02 GMT
+[2023-02-13 00:33:02] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:38:41] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:39:00] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:40:08] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:40:08 GMT
+[2023-02-13 00:40:08] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:40:13] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:40:30] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:41:57] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:41:57 GMT
+[2023-02-13 00:41:57] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:41:59] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:42:11] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:44:25] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:44:32] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:45:52] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:45:52 GMT
+[2023-02-13 00:45:52] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:46:15] [[32minfo[39m] Server start at Sun, 12 Feb 2023 17:46:15 GMT
+[2023-02-13 00:46:15] [[32minfo[39m] Server running on port 3001
+[2023-02-13 00:46:16] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:55:44] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:59:19] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:59:51] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 00:59:57] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:00:15] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:00:17] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:01:28] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:01:53] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:06] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:19] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:24] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:30] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:36] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:02:43] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:03:08] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:04:30] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:04:37] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:05:02] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:12:03] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:12:33] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:13:08] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:13:16] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:13:29] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:13:53] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:13:55] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:13] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:19] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:22] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:25] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:27] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:31] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:40] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:14:47] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:15:14] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:15:18] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:15:49] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:15:59] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:02] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:06] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:21] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:27] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:36] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:48] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:16:53] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:17:03] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:17:10] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:17:31] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:17:33] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:17:40] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:04] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:07] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:12] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:14] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:19] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:27] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:31] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:44] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:45] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:51] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:55] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:18:59] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:19:02] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:01] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:17] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:28] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:34] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:41] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:43] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:46] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:49] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:20:56] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:00] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:03] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:09] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:12] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:15] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:20] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:26] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:21:38] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:22:05] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:22:16] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:23:37] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:23:43] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:24:38] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:33:14] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:33:28] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:34:12] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:34:25] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:34:45] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:35:00] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:35:22] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:35:33] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:35:45] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:36:29] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:38:45] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:40:02] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:40:28] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:41:25] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:43:02] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:44:42] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:45:38] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:47:58] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:48:36] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:49:06] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:51:48] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:52:23] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:52:47] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:53:04] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:57:35] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-13 01:59:30] [[32minfo[39m] [GET] /token-creator/abi?address=0x73144FA58B874Eec1D8be04274F7505d7De3593e 127.0.0.1 undefined {}
+[2023-02-22 15:31:24] [[32minfo[39m] Server start at Wed, 22 Feb 2023 08:31:24 GMT
+[2023-02-22 15:31:24] [[32minfo[39m] Server running on port 3001
+[2023-02-22 16:54:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:54:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:54:33] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:55:19] [[32minfo[39m] Server start at Wed, 22 Feb 2023 09:55:19 GMT
+[2023-02-22 16:55:19] [[32minfo[39m] Server running on port 3001
+[2023-02-22 16:55:33] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:56:21] [[32minfo[39m] Server start at Wed, 22 Feb 2023 09:56:21 GMT
+[2023-02-22 16:56:21] [[32minfo[39m] Server running on port 3001
+[2023-02-22 16:56:24] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:56:51] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:57:29] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:57:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:57:50] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:58:15] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0xa104a58ece383006c31891ab9b5bf7e5dfb45665101629b4b726ff56c35eff34","address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 16:58:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:58:31] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 16:59:24] [[32minfo[39m] Server start at Wed, 22 Feb 2023 09:59:24 GMT
+[2023-02-22 16:59:24] [[32minfo[39m] Server running on port 3001
+[2023-02-22 16:59:34] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 17:00:15] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0xf4b9b09a2a2559945ee9d04e2e0680e317ca915835e20c99279fd4fe10518d58","address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 17:00:25] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 17:01:33] [[32minfo[39m] Server start at Wed, 22 Feb 2023 10:01:33 GMT
+[2023-02-22 17:01:33] [[32minfo[39m] Server running on port 3001
+[2023-02-22 17:01:53] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 17:03:05] [[32minfo[39m] Server start at Wed, 22 Feb 2023 10:03:05 GMT
+[2023-02-22 17:03:05] [[32minfo[39m] Server running on port 3001
+[2023-02-22 17:09:42] [[32minfo[39m] Server start at Wed, 22 Feb 2023 10:09:42 GMT
+[2023-02-22 17:09:42] [[32minfo[39m] Server running on port 3001
+[2023-02-22 17:11:17] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 17:11:45] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0x2edc856f054ebaeec415a499b9140b7831e7681329203ca3c718426b90ff93e0","address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 17:11:45] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 17:12:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:12:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:12:43] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0x008e0d8ada9cefdb665158ce9d06c1ca037609c71cc4473b21f6c8355e0587bc","address":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 17:12:43] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:13:17] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:16:05] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:18:20] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:18:20] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:19:01] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:22:06] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:22:14] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:22:51] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:24:59] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:25:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:25:41] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:25:57] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:26:18] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:28:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:28:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:28:53] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:29:12] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:29:44] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:30:04] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:32:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:32:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:33:05] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:53:40] [[32minfo[39m] Server start at Wed, 22 Feb 2023 10:53:40 GMT
+[2023-02-22 17:53:40] [[32minfo[39m] Server running on port 3001
+[2023-02-22 17:55:57] [[32minfo[39m] Server start at Wed, 22 Feb 2023 10:55:57 GMT
+[2023-02-22 17:55:57] [[32minfo[39m] Server running on port 3001
+[2023-02-22 17:56:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:57:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:57:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:58:03] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 17:59:04] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:27:11] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0x9e30d14388636ba80e6e4d9d5c410450f5c768b6faedd52999c483b4ff0f192a","address":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 19:27:41] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:28:00] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:28:18] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:28:18] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:28:36] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0x759d27e6b425fd6b74dcd3b6637e9334270a2d112966b5675405b661d9f378fe","address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 19:28:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:29:11] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:29:11] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:29:59] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:31:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:32:43] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:32:51] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:34:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:34:29] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0xD9b4352D09eE436514b5659188791518B77DC5e5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 19:36:32] [[32minfo[39m] Server start at Wed, 22 Feb 2023 12:36:32 GMT
+[2023-02-22 19:36:32] [[32minfo[39m] Server running on port 3001
+[2023-02-22 19:37:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:37:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:38:17] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:40:11] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:40:12] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:40:37] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:40:37] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:40:41] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:40:41] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:40:41] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:40:41] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:42:00] [[32minfo[39m] Server start at Wed, 22 Feb 2023 12:42:00 GMT
+[2023-02-22 19:42:00] [[32minfo[39m] Server running on port 3001
+[2023-02-22 19:42:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:42:19] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:42:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:42:19] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:42:25] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0xD9b4352D09eE436514b5659188791518B77DC5e5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 19:42:37] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:42:37] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:42:37] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:42:37] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:44:24] [[32minfo[39m] Server start at Wed, 22 Feb 2023 12:44:24 GMT
+[2023-02-22 19:44:24] [[32minfo[39m] Server running on port 3001
+[2023-02-22 19:45:24] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:45:24] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:45:24] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:45:24] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 19:45:28] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0xD9b4352D09eE436514b5659188791518B77DC5e5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 19:45:43] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:45:43] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:45:43] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:45:43] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:40] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:41] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:41] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:54] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:48:54] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:29] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:29] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:37] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:37] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:50] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 19:49:50] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:32:43] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:32:43] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:39:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:39:30] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:40:57] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:40:57] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:06] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:06] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:10] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:10] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:20] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:20] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:32] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:41:32] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:03] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:03] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:11] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:11] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:27] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:27] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:42] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:42] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:50] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:42:50] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:05] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:05] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:23] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:23] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:31] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:31] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:36] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:42] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:42] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:50] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:50] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:59] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:43:59] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:02] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:02] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:05] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:05] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:08] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:44:08] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:48:52] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:48:52] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:49:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:49:36] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:52:42] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:52:42] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:53:49] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:53:49] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:55:33] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:55:33] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:55:47] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:55:47] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:56:29] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:56:29] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:56:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 21:56:40] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:24] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:24] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:27] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:27] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:31] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:31] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:33] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:33] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:37] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:37] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:53] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:00:53] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:07] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:07] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:09] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:09] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:19] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:19] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:31] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:31] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:39] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:39] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:48] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:48] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:54] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:01:54] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:02:44] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:02:44] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:03:01] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:03:01] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:06:40] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:06:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:07:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:07:30] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:07:31] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:07:31] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:07:38] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0xD9b4352D09eE436514b5659188791518B77DC5e5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 22:11:28] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:11:28] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:11:46] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:11:46] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:11:46] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:11:46] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:12:12] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:12:12] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:14:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:14:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:14:38] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:14:38] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:14:38] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:14:38] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:15:56] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0xb33d4f96aeda0412c98e6b1af556b195a447ac1b75c225aac27177a6039bc3f5","address":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 22:15:56] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:16:09] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:09] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:09] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:09] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:30] [[32minfo[39m] [POST] /steal-address/submit-private-key 127.0.0.1 undefined {"privateKey":"0x7a4ae2ef1946e4a1773d10af32471af519a1f4548ff94c20c968488dbf584715","address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 22:16:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:16:40] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:16:40] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:16:40] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:16:45] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0x30E920dBF07F5C66c87668c26da89b25566b41D5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 22:16:58] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:58] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:58] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:16:58] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:17:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:17:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:17:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:17:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:19:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:19:13] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:19:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:19:13] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:19:20] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:19:20] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:19:21] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:19:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:19:48] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:19:48] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:20:20] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2","address":"0xe8799cd9be79090Aec9CFd74D205eeBfc930Cfb0","from":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228"}
+[2023-02-22 22:20:27] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:20:27] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:20:27] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:20:27] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:21:56] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:21:56] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:21:57] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:21:57] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 22:22:21] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636ffd17bb80b1a7c177e5f45d774a1ee0d228","address":"0x30E920dBF07F5C66c87668c26da89b25566b41D5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-22 22:23:45] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:23:45] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:23:45] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:23:45] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:24:33] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 22:24:33] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 23:17:38] [[32minfo[39m] Server start at Wed, 22 Feb 2023 16:17:38 GMT
+[2023-02-22 23:17:38] [[32minfo[39m] Server running on port 3001
+[2023-02-22 23:17:51] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 23:17:51] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 23:45:15] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 23:45:15] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-22 23:45:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:45:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:45:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:45:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:45:34] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:54:55] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:54:55] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x658Cb9E52cF6f804F7976BD6b36dE1C990D8079f 127.0.0.1 undefined {}
+[2023-02-22 23:55:03] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:03] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:03] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:03] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:39] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:39] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:53] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:55:53] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:00] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:00] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:13] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:13] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:21] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:21] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:29] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:29] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:39] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:39] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:50] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-22 23:56:50] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-24 16:19:30] [[32minfo[39m] Server start at Fri, 24 Feb 2023 09:19:30 GMT
+[2023-02-24 16:19:30] [[32minfo[39m] Server running on port 3001
+[2023-02-24 16:32:47] [[32minfo[39m] Server start at Fri, 24 Feb 2023 09:32:47 GMT
+[2023-02-24 16:32:47] [[32minfo[39m] Server running on port 3001
+[2023-02-24 16:47:46] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-24 16:47:46] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2 127.0.0.1 undefined {}
+[2023-02-24 17:09:07] [[32minfo[39m] [POST] /steal-address/submit-steal-address 127.0.0.1 undefined {"wallet_address":"0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228","address":"0x30E920dBF07F5C66c87668c26da89b25566b41D5","from":"0x3C90D8be4573F0582a2613e5CeFE8727431dB2f2"}
+[2023-02-24 17:09:44] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:09:44] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:09:44] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:09:44] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:18] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:18] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:26] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:26] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:30] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:36:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:43:35] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 17:43:35] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:27:03] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:27:04] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:36:04] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:36:04] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:39:03] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-24 21:39:03] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:15:30] [[32minfo[39m] Server start at Mon, 27 Feb 2023 04:15:30 GMT
+[2023-02-27 11:15:30] [[32minfo[39m] Server running on port 3001
+[2023-02-27 11:16:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:16:36] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:12] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:12] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:24] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:24] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:32] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:32] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:36] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:36] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:44] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-02-27 11:17:44] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 20:51:01] [[32minfo[39m] Server start at Sun, 05 Mar 2023 13:51:01 GMT
+[2023-03-05 20:51:01] [[32minfo[39m] Server running on port 3001
+[2023-03-05 23:43:30] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:43:30] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:44:05] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:44:05] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:44:22] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:44:22] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:56:17] [[32minfo[39m] [GET] /steal-address/get-list-steal-address?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-05 23:56:17] [[32minfo[39m] [GET] /steal-address/get-private-key?address=0x62636FFD17bB80B1a7c177e5F45d774A1eE0d228 127.0.0.1 undefined {}
+[2023-03-13 10:30:49] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:30:49 GMT
+[2023-03-13 10:30:49] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:30:52] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 10:30:52] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 10:30:52] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 10:30:52] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 10:30:52] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 10:30:53] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:30:53] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:30:59] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:04] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:05] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:05] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:05] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:06] [[32minfo[39m] [POST] /card/test 127.0.0.1 undefined {"smt":"hehe"}
+[2023-03-13 10:31:32] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:31:32 GMT
+[2023-03-13 10:31:32] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:31:49] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:31:49 GMT
+[2023-03-13 10:31:49] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:32:03] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:32:03 GMT
+[2023-03-13 10:32:03] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:32:06] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:32:31] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:33:55] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:33:55 GMT
+[2023-03-13 10:33:55] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:33:59] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:35:25] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:35:25 GMT
+[2023-03-13 10:35:25] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:36:14] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:36:14 GMT
+[2023-03-13 10:36:14] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:36:21] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:36:22] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 10:36:54] [[32minfo[39m] Server start at Mon, 13 Mar 2023 03:36:54 GMT
+[2023-03-13 10:36:54] [[32minfo[39m] Server running on port 3000
+[2023-03-13 10:37:05] [[32minfo[39m] [POST] /dao/test-dao 127.0.0.1 undefined {"smt":"a"}
+[2023-03-13 11:49:18] [[32minfo[39m] Server start at Mon, 13 Mar 2023 04:49:18 GMT
+[2023-03-13 11:49:18] [[32minfo[39m] Server running on port 3000
+[2023-03-13 11:49:24] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 11:49:24] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 11:49:24] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 11:49:24] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 11:49:24] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 11:49:25] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 11:49:25] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 11:49:40] [[32minfo[39m] [GET] /card/is-admin?address=0x383eB5dF61763E223B2DA6Db2b31fce24784b41B 127.0.0.1 undefined {}
+[2023-03-13 11:53:29] [[32minfo[39m] Server start at Mon, 13 Mar 2023 04:53:29 GMT
+[2023-03-13 11:53:29] [[32minfo[39m] Server running on port 3000
+[2023-03-13 11:53:40] [[32minfo[39m] Server start at Mon, 13 Mar 2023 04:53:40 GMT
+[2023-03-13 11:53:40] [[32minfo[39m] Server running on port 3000
+[2023-03-13 11:53:46] [[32minfo[39m] [GET] /card/is-admin?address=0x383eB5dF61763E223B2DA6Db2b31fce24784b41B 127.0.0.1 undefined {}
+[2023-03-13 14:00:57] [[32minfo[39m] Server start at Mon, 13 Mar 2023 07:00:57 GMT
+[2023-03-13 14:00:57] [[32minfo[39m] Server running on port 3000
+[2023-03-13 14:01:00] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 14:01:00] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 14:01:00] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 14:01:00] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 14:01:00] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 14:01:01] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 14:01:01] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 14:01:17] [[32minfo[39m] [GET] /card/get-voting-units?address=0xCeA2a20F681169BEe6Cfb04F446b61c5B45cf8E4 127.0.0.1 undefined {}
+[2023-03-13 14:05:29] [[32minfo[39m] Server start at Mon, 13 Mar 2023 07:05:29 GMT
+[2023-03-13 14:05:29] [[32minfo[39m] Server running on port 3000
+[2023-03-13 14:21:30] [[32minfo[39m] Server start at Mon, 13 Mar 2023 07:21:30 GMT
+[2023-03-13 14:21:30] [[32minfo[39m] Server running on port 3000
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 14:21:51] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 14:22:14] [[32minfo[39m] [GET] /card/get-card-power?tokenId=1 127.0.0.1 undefined {}
+[2023-03-13 14:22:23] [[32minfo[39m] [GET] /card/get-card-power?tokenId=2 127.0.0.1 undefined {}
+[2023-03-13 14:22:39] [[32minfo[39m] [GET] /card/get-voting-units?address=0xCeA2a20F681169BEe6Cfb04F446b61c5B45cf8E4 127.0.0.1 undefined {}
+[2023-03-13 14:23:16] [[32minfo[39m] [GET] /card/get-voting-units?address=0xCeA2a20F681169BEe6Cfb04F446b61c5B45cf8E4 127.0.0.1 undefined {}
+[2023-03-13 14:23:21] [[32minfo[39m] [GET] /card/get-card-power?tokenId=2 127.0.0.1 undefined {}
+[2023-03-13 14:23:27] [[32minfo[39m] [GET] /card/get-card-power?tokenId=1 127.0.0.1 undefined {}
+[2023-03-13 14:23:35] [[32minfo[39m] [GET] /card/get-position-power?position=2 127.0.0.1 undefined {}
+[2023-03-13 14:23:49] [[32minfo[39m] [GET] /card/get-position?tokenId=1 127.0.0.1 undefined {}
+[2023-03-13 14:23:52] [[32minfo[39m] [GET] /card/get-position?tokenId=2 127.0.0.1 undefined {}
+[2023-03-13 14:23:53] [[32minfo[39m] [GET] /card/get-position?tokenId=3 127.0.0.1 undefined {}
+[2023-03-13 14:58:08] [[32minfo[39m] Server start at Mon, 13 Mar 2023 07:58:08 GMT
+[2023-03-13 14:58:08] [[32minfo[39m] Server running on port 3000
+[2023-03-13 15:20:23] [[32minfo[39m] Server start at Mon, 13 Mar 2023 08:20:23 GMT
+[2023-03-13 15:20:23] [[32minfo[39m] Server running on port 3000
+[2023-03-13 15:20:25] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 15:20:25] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 15:20:25] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:25] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:25] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:26] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 15:20:26] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 15:20:48] [[32minfo[39m] Server start at Mon, 13 Mar 2023 08:20:48 GMT
+[2023-03-13 15:20:48] [[32minfo[39m] Server running on port 3000
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-13 15:20:51] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-15 16:46:12] [[32minfo[39m] Server start at Wed, 15 Mar 2023 09:46:12 GMT
+[2023-03-15 16:46:12] [[32minfo[39m] Server running on port 3000
+[2023-03-15 16:50:27] [[32minfo[39m] Server start at Wed, 15 Mar 2023 09:50:27 GMT
+[2023-03-15 16:50:27] [[32minfo[39m] Server running on port 3000
+[2023-03-15 16:50:52] [[32minfo[39m] Server start at Wed, 15 Mar 2023 09:50:52 GMT
+[2023-03-15 16:50:52] [[32minfo[39m] Server running on port 3000
+[2023-03-15 16:51:17] [[32minfo[39m] Server start at Wed, 15 Mar 2023 09:51:17 GMT
+[2023-03-15 16:51:17] [[32minfo[39m] Server running on port 3000
+[2023-03-15 16:51:43] [[32minfo[39m] Server start at Wed, 15 Mar 2023 09:51:43 GMT
+[2023-03-15 16:51:43] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:30:45] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:30:45 GMT
+[2023-03-15 17:30:45] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs 127.0.0.1 undefined {}
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-15 17:30:53] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-15 17:30:54] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-15 17:30:54] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-15 17:31:12] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}
+[2023-03-15 17:33:05] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}
+[2023-03-15 17:33:38] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:33:38 GMT
+[2023-03-15 17:33:38] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:33:45] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}
+[2023-03-15 17:36:59] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:36:59 GMT
+[2023-03-15 17:36:59] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:38:03] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:38:03 GMT
+[2023-03-15 17:38:03] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:38:46] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:38:46 GMT
+[2023-03-15 17:38:46] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:41:46] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:41:46 GMT
+[2023-03-15 17:41:46] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:42:38] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:42:38 GMT
+[2023-03-15 17:42:38] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:42:50] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}
+[2023-03-15 17:46:30] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:46:30 GMT
+[2023-03-15 17:46:30] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:46:56] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:46:56 GMT
+[2023-03-15 17:46:56] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:47:53] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:47:53 GMT
+[2023-03-15 17:47:53] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:48:46] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:48:46 GMT
+[2023-03-15 17:48:46] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:49:48] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:49:48 GMT
+[2023-03-15 17:49:48] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:53:16] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:53:16 GMT
+[2023-03-15 17:53:16] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:53:52] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:53:52 GMT
+[2023-03-15 17:53:52] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:54:12] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:54:12 GMT
+[2023-03-15 17:54:12] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:54:43] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:54:43 GMT
+[2023-03-15 17:54:43] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:55:06] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:55:06 GMT
+[2023-03-15 17:55:06] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:56:09] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:56:09 GMT
+[2023-03-15 17:56:09] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:57:07] [[32minfo[39m] Server start at Wed, 15 Mar 2023 10:57:07 GMT
+[2023-03-15 17:57:07] [[32minfo[39m] Server running on port 3000
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-15 17:57:26] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-15 17:57:27] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-15 17:57:46] [[32minfo[39m] [POST] /user/set-vote 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","votes":40}
+[2023-03-15 17:58:22] [[32minfo[39m] [POST] /user/push-proposal 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","proposal_id":"48030375407054590304628697566154717609835287455999184476617012813745365831585"}
+[2023-03-15 18:00:35] [[32minfo[39m] [POST] /user/push-proposal 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","proposal_id":"48030375407054590304628697566154717609835287455999184476617012813745365831585"}
+[2023-03-15 18:01:11] [[32minfo[39m] Server start at Wed, 15 Mar 2023 11:01:11 GMT
+[2023-03-15 18:01:11] [[32minfo[39m] Server running on port 3000
+[2023-03-15 18:01:14] [[32minfo[39m] [POST] /user/push-proposal 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","proposal_id":"48030375407054590304628697566154717609835287455999184476617012813745365831585"}
+[2023-03-15 18:01:29] [[32minfo[39m] [POST] /user/push-proposal 127.0.0.1 undefined {"wallet_address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","proposal_id":"50030375407054590304628697566154717609835287455999184476617012813745365831585"}
+[2023-03-16 09:24:33] [[32minfo[39m] Server start at Thu, 16 Mar 2023 02:24:33 GMT
+[2023-03-16 09:24:33] [[32minfo[39m] Server running on port 3000
+[2023-03-16 09:24:39] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 09:24:39] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 09:24:39] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 09:24:39] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 09:24:39] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 09:24:40] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 09:24:40] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 09:26:17] [[32minfo[39m] [GET] /user/get-user?wallet_address=0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] Server start at Thu, 16 Mar 2023 03:34:47 GMT
+[2023-03-16 10:34:47] [[32minfo[39m] Server running on port 3000
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 10:34:47] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 10:34:48] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 10:35:30] [[32minfo[39m] [POST] /proposal/create-proposal 127.0.0.1 undefined {"proposal_id":"test102004194912483212435","proposal_name":"Duong Proposal","proposal_state":0,"issued_by":"0xCeA2a20F681169BEe6Cfb04F446b61c5B45cf8E4","start_date":0,"end_date":0,"description":"string"}
+[2023-03-16 13:38:54] [[32minfo[39m] Server start at Thu, 16 Mar 2023 06:38:54 GMT
+[2023-03-16 13:38:54] [[32minfo[39m] Server running on port 3000
+[2023-03-16 13:38:56] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 13:38:56] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 13:38:56] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 13:38:56] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 13:38:56] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 13:38:57] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 13:38:57] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 13:42:34] [[32minfo[39m] [POST] /proposal/update-proposal-for-votes 127.0.0.1 undefined {"proposal_id":"9323853127220986005722542286622800131993092256870507483375596074786112138840","for_votes":30}
+[2023-03-16 13:43:33] [[32minfo[39m] [POST] /proposal/update-proposal-against-votes 127.0.0.1 undefined {"proposal_id":"9323853127220986005722542286622800131993092256870507483375596074786112138840","against_votes":20}
+[2023-03-16 13:44:18] [[32minfo[39m] [POST] /proposal/update-proposal-state 127.0.0.1 undefined {"proposal_id":"9323853127220986005722542286622800131993092256870507483375596074786112138840","proposal_state":1}
+[2023-03-16 15:21:27] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:21:27 GMT
+[2023-03-16 15:21:27] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:22:02] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 15:22:02] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 15:22:02] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 15:22:02] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 15:22:02] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 15:22:03] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:22:03] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:22:31] [[32minfo[39m] [POST] /proposal/create-proposal 127.0.0.1 undefined {"proposal_id":"test873498105610865418072364108247612056172365178256129305","proposal_name":"Testttttt","proposal_state":0,"issued_by":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6","start_date":0,"end_date":0,"description":"string","total_votes":0,"total_address":0}
+[2023-03-16 15:45:12] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:45:12 GMT
+[2023-03-16 15:45:12] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 15:45:28] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:45:29] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:46:51] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:46:51 GMT
+[2023-03-16 15:46:51] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:46:53] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:46:54] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 15:48:46] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 15:49:35] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:49:34 GMT
+[2023-03-16 15:49:35] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:49:36] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 15:50:04] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:50:04 GMT
+[2023-03-16 15:50:04] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:50:10] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 15:50:46] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:50:46 GMT
+[2023-03-16 15:50:46] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:50:46] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 15:56:46] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:56:46 GMT
+[2023-03-16 15:56:46] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:57:35] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:57:35 GMT
+[2023-03-16 15:57:35] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:57:57] [[32minfo[39m] Server start at Thu, 16 Mar 2023 08:57:57 GMT
+[2023-03-16 15:57:57] [[32minfo[39m] Server running on port 3000
+[2023-03-16 15:58:03] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 15:58:41] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 16:00:09] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:00:09 GMT
+[2023-03-16 16:00:09] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:00:52] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:00:52 GMT
+[2023-03-16 16:00:52] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:01:26] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:01:26 GMT
+[2023-03-16 16:01:26] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:01:30] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"aaaaaaa","voter":{"support":2,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 16:02:52] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"38854484973450764773799215403297985099992701375943260131606291740199866121508","voter":{"support":1,"vote":30,"address":"0x06309b3B3cf2d6fb5CD0bc0E47f8852f2a2b44e6"}}
+[2023-03-16 16:03:32] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"38854484973450764773799215403297985099992701375943260131606291740199866121508","voter":{"support":2,"vote":20,"address":"0xCeA2a20F681169BEe6Cfb04F446b61c5B45cf8E4"}}
+[2023-03-16 16:17:15] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:17:15 GMT
+[2023-03-16 16:17:15] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 16:17:22] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 16:17:23] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 16:18:00] [[32minfo[39m] [POST] /user/delegate-vote 127.0.0.1 undefined {"from_wallet_address":"0x766e99968661f12b4b5fe4cA4804bd7FE4511f8c","to_wallet_address":"0xEEC8dd54B45E1D1cCb8661aa41c349f4DD0ECC90"}
+[2023-03-16 16:18:56] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:18:56 GMT
+[2023-03-16 16:18:56] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:21:19] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:21:19 GMT
+[2023-03-16 16:21:19] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 16:22:14] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 16:22:15] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 16:49:38] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:49:38 GMT
+[2023-03-16 16:49:38] [[32minfo[39m] Server running on port 3000
+[2023-03-16 16:49:46] [[32minfo[39m] [GET] /dao/get-power-at-block?account=0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c&blockNumber=16758 127.0.0.1 undefined {}
+[2023-03-16 16:55:13] [[32minfo[39m] Server start at Thu, 16 Mar 2023 09:55:13 GMT
+[2023-03-16 16:55:13] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:01:55] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:01:55 GMT
+[2023-03-16 17:01:55] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 17:01:57] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:01:58] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:02:08] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c"}
+[2023-03-16 17:03:07] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:03:07 GMT
+[2023-03-16 17:03:07] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:03:13] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c"}
+[2023-03-16 17:03:53] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:03:53 GMT
+[2023-03-16 17:03:53] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:04:20] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:04:20 GMT
+[2023-03-16 17:04:20] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:04:33] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c"}
+[2023-03-16 17:05:37] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:05:37 GMT
+[2023-03-16 17:05:37] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:05:40] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c"}
+[2023-03-16 17:05:58] [[32minfo[39m] [POST] /user/create-user 127.0.0.1 undefined {"wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c"}
+[2023-03-16 17:06:12] [[32minfo[39m] [GET] /proposal/get-all-proposal 127.0.0.1 undefined {}
+[2023-03-16 17:16:54] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:16:54 GMT
+[2023-03-16 17:16:54] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:17:00] [[32minfo[39m] [GET] /proposal/get-all-proposal 127.0.0.1 undefined {}
+[2023-03-16 17:18:32] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 17:18:33] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 17:18:33] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 17:18:33] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 17:18:33] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 17:18:33] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:18:34] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:19:40] [[32minfo[39m] [POST] /proposal/cast-vote 127.0.0.1 undefined {"proposal_id":"38854484973450764773799215403297985099992701375943260131606291740199866121508","wallet_address":"0xBC4238FbE2CC00C4a093907bCdb4694FEC00882c","support":0}
+[2023-03-16 17:21:26] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 17:21:26] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 17:21:26] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 17:21:26] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 17:21:26] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 17:21:27] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:21:27] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:48:11] [[32minfo[39m] Server start at Thu, 16 Mar 2023 10:48:11 GMT
+[2023-03-16 17:48:11] [[32minfo[39m] Server running on port 3000
+[2023-03-16 17:48:17] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-16 17:48:17] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-16 17:48:17] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-16 17:48:17] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-16 17:48:17] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-16 17:48:18] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:48:18] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-16 17:48:22] [[32minfo[39m] [POST] /proposal/update-all-proposal-state 127.0.0.1 undefined {}
+[2023-03-16 17:50:41] [[32minfo[39m] [POST] /user/update-all-user-vote 127.0.0.1 undefined {}
+[2023-03-17 08:36:08] [[32minfo[39m] Server start at Fri, 17 Mar 2023 01:36:08 GMT
+[2023-03-17 08:36:08] [[32minfo[39m] Server running on port 3000
+[2023-03-17 08:36:12] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-17 08:36:12] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-17 08:36:12] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-17 08:36:12] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-17 08:36:12] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-17 08:36:13] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 08:36:13] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 08:36:18] [[32minfo[39m] [GET] /proposal/get-all-proposal 127.0.0.1 undefined {}
+[2023-03-17 16:33:59] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:33:59 GMT
+[2023-03-17 16:33:59] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:34:21] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-17 16:34:21] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-17 16:34:21] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-17 16:34:21] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-17 16:34:21] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-17 16:34:22] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 16:34:22] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 16:34:27] [[32minfo[39m] [GET] /card/get-total-holders 127.0.0.1 undefined {}
+[2023-03-17 16:35:32] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:35:32 GMT
+[2023-03-17 16:35:32] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:35:41] [[32minfo[39m] [GET] /card/get-total-holders 127.0.0.1 undefined {}
+[2023-03-17 16:37:16] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:37:16 GMT
+[2023-03-17 16:37:16] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:38:03] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:38:03 GMT
+[2023-03-17 16:38:03] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:38:06] [[32minfo[39m] [GET] /card/get-total-holders 127.0.0.1 undefined {}
+[2023-03-17 16:38:45] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:38:45 GMT
+[2023-03-17 16:38:45] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:41:54] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:41:54 GMT
+[2023-03-17 16:41:54] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:42:23] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:42:23 GMT
+[2023-03-17 16:42:23] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:42:54] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:42:54 GMT
+[2023-03-17 16:42:54] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:42:56] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-17 16:42:56] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-17 16:42:56] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-17 16:42:56] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-17 16:42:56] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-17 16:42:57] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 16:42:57] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-17 16:43:02] [[32minfo[39m] [GET] /card/get-total-rewards 127.0.0.1 undefined {}
+[2023-03-17 16:43:43] [[32minfo[39m] Server start at Fri, 17 Mar 2023 09:43:43 GMT
+[2023-03-17 16:43:43] [[32minfo[39m] Server running on port 3000
+[2023-03-17 16:43:46] [[32minfo[39m] [GET] /card/get-total-rewards 127.0.0.1 undefined {}
+[2023-03-18 10:25:50] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:25:50 GMT
+[2023-03-18 10:25:50] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:25:52] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-18 10:25:52] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-18 10:25:53] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-18 10:25:53] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-18 10:25:53] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-18 10:25:53] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-18 10:25:54] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-18 10:26:44] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596 127.0.0.1 undefined {}
+[2023-03-18 10:30:34] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596 127.0.0.1 undefined {}
+[2023-03-18 10:32:24] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596 127.0.0.1 undefined {}
+[2023-03-18 10:32:43] [[32minfo[39m] [GET] /proposal/get-proposal?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596 127.0.0.1 undefined {}
+[2023-03-18 10:37:07] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:37:07 GMT
+[2023-03-18 10:37:07] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:37:12] [[32minfo[39m] [GET] /docs/ 127.0.0.1 undefined {}
+[2023-03-18 10:37:12] [[32minfo[39m] [GET] /docs/swagger-ui.css 127.0.0.1 undefined {}
+[2023-03-18 10:37:12] [[32minfo[39m] [GET] /docs/swagger-ui-bundle.js 127.0.0.1 undefined {}
+[2023-03-18 10:37:12] [[32minfo[39m] [GET] /docs/swagger-ui-standalone-preset.js 127.0.0.1 undefined {}
+[2023-03-18 10:37:12] [[32minfo[39m] [GET] /docs/swagger-ui-init.js 127.0.0.1 undefined {}
+[2023-03-18 10:37:13] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-18 10:37:14] [[32minfo[39m] [GET] /docs/favicon-32x32.png 127.0.0.1 undefined {}
+[2023-03-18 10:37:30] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:38:18] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:38:18 GMT
+[2023-03-18 10:38:18] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:38:38] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:38:38 GMT
+[2023-03-18 10:38:38] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:38:43] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:39:44] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:39:44 GMT
+[2023-03-18 10:39:44] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:39:47] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:39:50] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:41:03] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:41:03 GMT
+[2023-03-18 10:41:03] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:41:07] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:41:43] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:41:43 GMT
+[2023-03-18 10:41:43] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:41:46] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:43:28] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:43:28 GMT
+[2023-03-18 10:43:28] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:44:06] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:44:06 GMT
+[2023-03-18 10:44:06] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:44:10] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:44:16] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:45:58] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:45:58 GMT
+[2023-03-18 10:45:58] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:47:09] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:47:29] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:47:29 GMT
+[2023-03-18 10:47:29] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:47:35] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
+[2023-03-18 10:48:22] [[32minfo[39m] Server start at Sat, 18 Mar 2023 03:48:22 GMT
+[2023-03-18 10:48:22] [[32minfo[39m] Server running on port 3000
+[2023-03-18 10:48:25] [[32minfo[39m] [GET] /proposal/get-vote-percent?proposal_id=34159526479588572530375452779018754536980163201156752474509719973522530755596&wallet_address=0xe6e820e88740c22de225fdf42e82e36e1b3e3f12 127.0.0.1 undefined {}
